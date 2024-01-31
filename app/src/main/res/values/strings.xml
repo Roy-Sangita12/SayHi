@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Say Hi</string>
+    <string name="a_za_z0_9_a_z_a_z">[a-zA-Z0-9._-]+@[a-z]+\\\\.+[a-z]+</string>
+</resources>
